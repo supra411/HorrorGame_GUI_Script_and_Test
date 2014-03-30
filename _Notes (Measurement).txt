@@ -1,0 +1,11 @@
+*** CAMERA ***
+camera.y - close: 15, far: 20
+
+*** MODEL ***
+wall	Size (42.627cm, 541.696cm, 5374.546cm)
+door	size (44.909cm, 430.837cm, 329.149cm)
+
+table	size (200cm, 300cm, 150cm - tableleg)
+
+key	size (7cm, 1cm)
+
